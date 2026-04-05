@@ -6,6 +6,9 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## WandB link: 
+https://wandb.ai/riley9460-western-governors-university/nyc_airbnb/overview
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -38,7 +41,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git
+git clone https://github.com/Rafg1298/Project-Build-an-ML-Pipeline-Starter
 ```
 
 and go into the repository:
